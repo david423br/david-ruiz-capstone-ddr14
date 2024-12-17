@@ -1,6 +1,3 @@
-# david-ruiz-capstone-ddr14
-David Ruiz | LEGO Capstone | DDR14
-
 # What to build next... a LEGO Ideas presentation
 ![DHS logo](./images/LEGO.png)
 
